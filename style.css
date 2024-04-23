@@ -1,0 +1,23 @@
+/*Alumna: Gabriela Céspedes*/
+h1{
+    color: white;
+    background-color: black;
+    text-align: left;
+}
+h1 span{
+    color: turquoise;
+}
+h2{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    font-family: initial;
+    font-style: italic;
+}
+h3{
+    color: blue;
+    background-color: aquamarine;
+    text-align: right;
+    text-decoration: underline;
+    font-family:'Courier New', Courier, monospace;
+}
